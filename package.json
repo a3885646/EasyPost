@@ -1,0 +1,15 @@
+{
+  "name": "easypost",
+  "version": "1.0.0",
+  "description": "simple social website with ReactJS & GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lesta",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.10.1",
+    "graphql": "^14.6.0"
+  }
+}
